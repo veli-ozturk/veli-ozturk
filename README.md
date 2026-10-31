@@ -28,7 +28,7 @@ Güvenlik operasyonları, sistem yönetimi ve entegrasyon üzerine çalışıyor
 
 ### 📌 Projeler
 
-- **[DesktopPossible](https://github.com/duendoo/DesktopPossible)** — Windows 10/11 için tamamen Türkçe, ücretsiz ve açık kaynaklı masaüstü düzenleyici. Simgeleri kutulara toplar; Stardock Fences alternatifi.
+- **[DesktopPossible](https://github.com/veli-ozturk/DesktopPossible)** — Windows 10/11 için tamamen Türkçe, ücretsiz ve açık kaynaklı masaüstü düzenleyici. Simgeleri kutulara toplar; Stardock Fences alternatifi.
 
 ### 📫 İletişim
 
