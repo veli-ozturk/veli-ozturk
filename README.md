@@ -41,7 +41,14 @@ Boş zamanlarımda **vibe coder**'ım 🤖✨ — fikri ben getiriyorum, kodu ya
 
 ### 📌 Projeler
 
+Hepsini yapay zekâyla birlikte, vibe coding ile geliştirdim:
+
 - **[DesktopPossible](https://github.com/veli-ozturk/DesktopPossible)** — Windows 10/11 için tamamen Türkçe, ücretsiz ve açık kaynaklı masaüstü düzenleyici. Simgeleri kutulara toplar; Stardock Fences alternatifi. Türkçe sürümü Claude Code ile birlikte geliştirdim.
+- **[g510-lcd-panel](https://github.com/veli-ozturk/g510-lcd-panel)** — Logitech G510 klavyenin LCD ekranı ve RGB ışığı için Windows uygulaması: sistem bilgisi, medya, hava durumu, haberler, oyun FPS'i, bildirimler ve animasyonlar.
+- **[mxw01-sticker-printer](https://github.com/veli-ozturk/mxw01-sticker-printer)** — MXW01 / C9 (Fun Print) Bluetooth termal yazıcıya telefonsuz, doğrudan Windows'tan etiket, not ve fotoğraf basma: şablonlar, etiket kesici, dithering.
+- **[velinux-f133-linux-assistant](https://github.com/veli-ozturk/velinux-f133-linux-assistant)** — Allwinner F133 (RISC-V, 64 MB RAM) akıllı ekran için özel Linux ve sesli/Telegram ev asistanı.
+- **[japonya-gezi-planlayici](https://github.com/veli-ozturk/japonya-gezi-planlayici)** — Telefondan kullanılan kişisel Japonya gezi sitesi: gün gün program, harita, alışveriş, ortak harcama ve Telegram bildirimleri. Cloudflare Pages + KV.
+- **[gezi-sitesi-is-prd](https://github.com/veli-ozturk/gezi-sitesi-is-prd)** — Türk gezginlere kişiye özel gezi sitesi hizmeti için iş planı (PRD).
 
 ### 📫 İletişim
 
