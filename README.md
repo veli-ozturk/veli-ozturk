@@ -52,4 +52,4 @@ Hepsini yapay zekâyla birlikte, vibe coding ile geliştirdim:
 
 ### 📫 İletişim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Veli%20%C3%96zt%C3%BCrk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veli-%C3%B6zt%C3%BCrk-20b2491a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Veli%20%C3%96zt%C3%BCrk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veliozturk)
